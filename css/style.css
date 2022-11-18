@@ -1,0 +1,34 @@
+html{
+    scroll-behavior: smooth;
+}
+.header{
+    height: 50px;
+    width: 100%;
+    background-color: aquamarine;
+position: fixed;
+top: 0px;
+}
+.header_list{
+    display: flex;
+    box-shadow: 10px #909090;
+    justify-content: space-between;
+    padding-top: 8px;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+#boshsahifa{
+    background-color:red;
+}
+#xizmatlar{
+    background-color: blue;
+    margin-top: 10px;
+}
+#jamoa{
+    background-color: aqua;
+    margin-top: 10px;
+}
+.header_tell{
+    background-color: blue;
+}
